@@ -1,8 +1,8 @@
 # Beanstalk
 Go client for [beanstalkd](http://kr.github.com/beanstalkd/).
 
-*Add beanstalkd connection pool base on origin from kr
-*Lazy connection for avoiding connection error occuriing 
+ * Add beanstalkd connection pool base on origin from KR
+ * Lazy connection for avoiding connection error occurring 
 
 ## Install
 
